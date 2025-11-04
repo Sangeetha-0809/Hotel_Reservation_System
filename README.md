@@ -1,4 +1,4 @@
-### HOTEL RESERVATION SYSTEM
+# HOTEL RESERVATION SYSTEM
 
 **A Java console application for managing hotel rooms, bookings, and payments with persistent storage.**
 
@@ -16,9 +16,13 @@
 
 **6.Future Enhancements**
 
+**__________________________________________________________________________________________________________________________________________________________________________**
+
 ## 1.Project Overview
 
 A console-based Java application to manage hotel rooms and bookings. Users can view available rooms, make and cancel bookings, and process payments. Data is saved persistently using file serialization. This project demonstrates OOP, file handling, and basic payment simulation in Java.
+
+**__________________________________________________________________________________________________________________________________________________________________________**
 
 ## 2.Features
 
@@ -34,6 +38,8 @@ A console-based Java application to manage hotel rooms and bookings. Users can v
 
 **6.Persistent storage of rooms and bookings**
 
+**__________________________________________________________________________________________________________________________________________________________________________**
+
 ## 3.Technologies Used
 
 **1.Java SE, OOP (Room, Booking, Hotel, Payment)**
@@ -42,6 +48,8 @@ A console-based Java application to manage hotel rooms and bookings. Users can v
 
 **3.IntelliJ IDEA or any Java IDE**
 
+**__________________________________________________________________________________________________________________________________________________________________________**
+
 ## 4.How to Run
 
 **1.Clone the repository.**
@@ -49,6 +57,8 @@ A console-based Java application to manage hotel rooms and bookings. Users can v
 **2.Open in a Java IDE and compile.**
 
 **3.Run Main.java to start the system.**
+
+**__________________________________________________________________________________________________________________________________________________________________________**
 
 ## 5.Usage
 
@@ -59,6 +69,8 @@ A console-based Java application to manage hotel rooms and bookings. Users can v
 **3.Payment is simulated automatically**
 
 **4.Data persists across sessions**
+
+**__________________________________________________________________________________________________________________________________________________________________________**
 
 ## 6.Future Enhancements
 
